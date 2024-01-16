@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+
+#new
+SQLAlchemy
+psycopg2    #linux/mac user use: psycopg2-binary==2.9.6
+psycopg2-binary
+python-dotenv
+loguru 
+python-jose[cryptography]
+python-multipart
+passlib
+bcrypt
+pydantic[email]
