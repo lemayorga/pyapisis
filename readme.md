@@ -1,3 +1,7 @@
+Demo project which implement the following :
+  
+![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,&theme=dark)
+
 Lanzamos el comando para crear el entorno virtual:
 # python -m venv venv
 Y después lo activamos:
